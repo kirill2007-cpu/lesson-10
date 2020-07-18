@@ -52,3 +52,9 @@
   Блок с классом .container будем называть главным центрирующим контейнером <br/>
  7) Обязательно скачиваем normalize.css и прописываем link в шапке index.html. Данный link должен быть выше всех других link'ов. Почему так - узнаем позже.
     
+<p align="center">
+  <img with="100" height="100" src="html-5.svg" alt="html-logo"/>
+  <img with="100" height="100" src="css.svg" alt="css-logo"/>
+  <img with="100" height="100" src="javascript.svg" alt="js-logo"/>
+  <img with="100" height="100" src="react.svg" alt="react-logo"/>
+</p>
