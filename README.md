@@ -57,5 +57,5 @@
   <img with="100" height="100" src="css.svg" alt="css-logo"/>
   <img with="100" height="100" src="javascript.svg" alt="js-logo"/>
   <img with="100" height="100" src="react.svg" alt="react-logo"/>
-  <img with="100" height="100" src="redux.svg" alt="react-logo"/>
+  <img with="100" height="100" src="redux.svg" alt="redux-logo"/>
 </p>
