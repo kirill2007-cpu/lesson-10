@@ -64,4 +64,5 @@
   <img with="100" height="100" src="javascript.svg" alt="js-logo"/>
   <img with="100" height="100" src="react.svg" alt="react-logo"/>
   <img with="100" height="100" src="redux.svg" alt="redux-logo"/>
+  <img with="100" height="100" src="firebase.svg" alt="firebase"/>
 </p>
